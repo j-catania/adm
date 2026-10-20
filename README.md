@@ -26,4 +26,4 @@ Le menu s'adapte dynamiquement aux outils installés sur la machine hôte (**Doc
 Exécute la commande suivante sur ton serveur pour installer le script dans `/usr/local/bin` :
 
 ```bash
-sudo curl -fsSL [https://raw.githubusercontent.com/](https://raw.githubusercontent.com/)<ton-pseudo-github>/<nom-du-repo>/main/admin-menu.sh -o /usr/local/bin/admin-menu && sudo chmod 755 /usr/local/bin/admin-menu && sudo chown root:root /usr/local/bin/admin-menu
+sudo curl -fsSL https://raw.githubusercontent.com/j-catania/adm/main/admin-menu.sh -o /usr/local/bin/adm && sudo chmod 755 /usr/local/bin/adm && sudo chown root:root /usr/local/bin/adm
